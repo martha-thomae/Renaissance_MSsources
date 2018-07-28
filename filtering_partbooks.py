@@ -30,32 +30,20 @@ with open('./Input/MS_from_DIAMM_1400to1600.csv') as file:
         shelfmark = item['shelfmark']
         name_item = archive + " " + shelfmark
 
-        parenthesis = re.search(r".*\((.*?)\)", shelfmark)
-        bracket = re.search(r".*\[(.*?)\]", shelfmark)
+        # Presence of a parenthesis or square bracket (both are used to indicate the parts)
+        parenthesis = re.search(r".*[\[\(](.*?)[\]\)]", shelfmark)
 
         # If the item does not have any parenthesis or bracket,
         # Add it to the list of unique_sources since (most probably) is not a partbook
-        if parenthesis is None and bracket is None:
+        if parenthesis is None:
             unique_sources.append(name_item)
             unique_sources_info.append(item)
         # In the case that at least one of them (a parenthesis or bracket) is present
         else:
             # 1. Determine the shelfmark
-
-            # If there is a parenthesis
-            if parenthesis is not None:
-                shelfmark_edit = re.search(r"(.*)\(.*\)", shelfmark).group(1)
-                name_item_edit = archive + " " + shelfmark_edit
-                embedded_content = parenthesis.group(1)
-
-            # If there is a bracket
-            elif bracket is not None:
-                shelfmark_edit = re.search(r"(.*)\[.*\]", shelfmark).group(1)
-                name_item_edit = archive + " " + shelfmark_edit
-                embedded_content = bracket.group(1)
-
-            else:
-                print("This shouldn't happen!\nParentheses and brackets at the same time")
+            shelfmark_edit = re.search(r"(.*)[\[\(].*[\]\)]", shelfmark).group(1)
+            name_item_edit = archive + " " + shelfmark_edit
+            embedded_content = parenthesis.group(1)
 
             # Determine whether this item is a partbook or not
             if embedded_content in part_tags:

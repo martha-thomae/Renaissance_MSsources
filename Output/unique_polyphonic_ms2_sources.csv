@@ -385,7 +385,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 984,Paris,F-Peb,"École Nationale Supérieure des Beaux-Arts, Bibliothèque",Jean Masson 56,,
 987,Cambridge,GB-Cp,"Peterhouse, Perne Library",MS 40 ,Peterhouse Partbooks: Henrician Set,Triplex
 989,Chelmsford,GB-CF,Essex Record Office,MS D/DP Z6/1,,
-990,Edinburgh,GB-Eu,University Library,64 ,Dunkeld Antiphonary,"Discantus, Altus, Tenor, Bassus, Quintus"
+990,Edinburgh,GB-Eu,University Library,64,Dunkeld Antiphonary,"Discantus, Altus, Tenor, Bassus, Quintus"
 992,Lincoln,GB-LIcro,Lincolnshire Archives and Record Office,"s.s. (Register) - moved to Lincoln, Lincolshire Archives and Record Office, Saxilby PAR 23/1",Saxilby Fragment,
 993,Shrewsbury,GB-SHR,Shropshire Record Office,LB/15/1/225,,
 994,Sutton Coldfield,GB-SC,"Oscott College, Old Library",Case B No. 4,,
@@ -393,7 +393,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 998,Budapest,H-Bu,Egyetemi Könyvtar (Universitätsbibliothek),U. Fr. l. m. 297,,
 999,Esztergom,H-Efkö,Föszékesegyházi Könyvtár (Cathedral Library),MS I.178,,
 1001,Castell'Arquato,I-CARcc,"Chiesa Collegiata, Archivio",14,,
-1002,Civitanova Marche,I-CNM,Biblioteca Comunale Silvio Zavatti,s.s. ,,"1, 2, 1, 1, 1"
+1002,Civitanova Marche,I-CNM,Biblioteca Comunale Silvio Zavatti,s.s. (1) ,,"Discantus, Altus, Tenor, Bassus"
 1003,Florence (Firenze),I-Fr,Biblioteca Riccardiana,Ms. 2356,,
 1004,Florence (Firenze),I-Fd,"Duomo, Archivio Musicale dell'Opera di Santa Maria del Fiore",MS 6,,
 1005,Foligno,I-FOLc,Biblioteca Comunale,"s.s. ""frammento musicale de Quattrocento""",,
@@ -403,9 +403,9 @@ id,MS name,siglum,archive,shelfmark,other names,part
 1010,Milan,I-Mt,Biblioteca Trivulziana e Archivio Storico Civico (Castello Sforzesco),55,,
 1011,Modena,I-MOd,"Duomo, Biblioteca e Archivio Capitolare di Modena",MS Mus. III,,
 1013,Naples,I-Nn,Biblioteca Nazionale Vittorio Emanuelle III,VI E 40,,
-1014,Padua,I-Psa,Basilica di Sant' Antonio,s.s. ,,"1, 2, 1, 1, 1"
+1014,Padua,I-Psa,Basilica di Sant' Antonio,s.s. (1) ,,"Discantus, Altus, Tenor, Bassus"
 1015,Parma,I-PAac,Archivio Capitolare di Parma,MS AC-04,,
-1016,Piacenza,I-PCd,"Archivio del Duomo, Fondo Musicale",s.s. ,,"1, 2, 3, 4, 5, 3, 1, 1"
+1016,Piacenza,I-PCd,"Archivio del Duomo, Fondo Musicale",s.s. (1) ,,"Discantus, Altus, Tenor"
 1019,Reggio Emilia,I-REsp,Archivio della Chiesa di San Prospero,s.s. ,,"Tenor, Bassus, Quintus"
 1020,Rome,I-Rpm,Palazzo Massimo,VI/C6/23,,
 1021,Rome,I-Rv,Biblioteca Vallicelliana,S1 35,,
@@ -417,7 +417,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 1030,Trent (Trento),I-TRa,Archivio di Stato Trento,"Sezione tedesca, Nr. 105",,
 1031,Trent (Trento),I-TRc,Biblioteco Comunale,283,,
 1033,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,1,,
-1034,Verona,I-VEaf,Biblioteca Dell'Accademia Filarmonica,218 ,,"Discantus 1, Discantus 2, Altus 1, Altus 2, Tenor 1, Tenor 2, Bassus 1, Bassus 2"
+1034,Verona,I-VEaf,Biblioteca Dell'Accademia Filarmonica,218,,"Discantus 1, Discantus 2, Altus 1, Altus 2, Tenor 1, Tenor 2, Bassus 1, Bassus 2"
 1038,'s-Hertogenbosch,NL-SH,Archief van de Illustre Lieve Vrouwe Broederschap,MS 72A,,
 1041,Leiden,NL-L,Gemeentearchief; Archieven van de Kerken,MS 1438,,
 1042,Leiden,NL-Lml,Stedelijk Museum in de Lakenhal,MS 1440,,
@@ -431,7 +431,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 1052,Lisbon,P-Ln,Biblioteca Nacional,Colecção Dr. Ivo Cruz. MS 60,,
 1053,Oporto,P-Pm,Biblioteca Pública Municipale,714,,
 1054,Cieszyn,PL-C,Oddzial Zabytkowy Biblioteki Slaskiej W Cieszynie,Rps. DD I 28,,
-1055,Gdansk,PL-GD,Bibliogeki Polskiej Akademii Nauk (Library of the Polish Academy of Sciences),4003 ,,"Discantus, Altus, Tenor, Bassus"
+1055,Gdansk,PL-GD,Bibliogeki Polskiej Akademii Nauk (Library of the Polish Academy of Sciences),4003,,"Discantus, Altus, Tenor, Bassus"
 1056,Kielce,PL-KIs,Biblioteka Seminarium Duchownego,s.s.,,
 1057,Klatovy,CZ-KLm,Vlastivědné muzeum Dr. Hostaše v Klatovech [formerly: Okresní Muzeum],C3/403,,
 1058,Kórnik,PL-KÓ,Biblioteki Polskiej Akademii Nauk,801,,
@@ -523,7 +523,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 1184,Tournai,B-Tv,Bibliothèque de la Ville,94,,
 1185,Trebechovice Pod Orebem,CZ-TRCHm,Muzeum,134,,
 1186,Trebon,CZ-TRE,Státní Oblastní Archiv,A 4,,
-1187,Ulm,D-Usch,Münster Bibliothek,235 ,,"a, b, c, d"
+1187,Ulm,D-Usch,Münster Bibliothek,235,,"a, b, c, d"
 1188,Usti nad Orlici,CZ-UO,Okresni Archiv,A 3,,
 1190,Valencia,E-VAu,Biblioteca Universitaria,835,,
 1191,Valladolid,E-V,"Catedral Metropolitana, Archivo de Música",5,,
@@ -956,7 +956,8 @@ id,MS name,siglum,archive,shelfmark,other names,part
 1794,Granada,E-GRcr,"Capilla Real, Archivo de Música",MS 12,,
 1795,Graz,A-Gu,Universitätsbibliothek,MS 8,,
 1796,Graz,A-Gu,Universitätsbibliothek,MS 11,,
-1802,Hamburg,D-Hs,Staats- und Universitätsbibliothek,"MS Hans. III, 4 ",,"I, II, III, IV, V, IV, IV, IV, IV"
+1802,Hamburg,D-Hs,Staats- und Universitätsbibliothek,"MS Hans. III, 4 ",,"I, II, III, V"
+1805,Hamburg,D-Hs,Staats- und Universitätsbibliothek,"MS Hans. III, 4 (IV) ",,"Altus, Tenor, Bassus 1, Bassus 2, Sextus"
 1807,Heidelberg,D-Heid,Universitätsbibliothek,MS Pal. Germ. 318,,
 1808,Heilbronn,D-HBa,"Stadtarchiv, Musiksammlung",MS X/2,,
 1809,Heilbronn,D-HBa,"Stadtarchiv, Musiksammlung",MS XL,,
@@ -1241,7 +1242,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 2255,New Haven,US-NH,"Yale University, School of Music Library",Miscellaneous MS 179,,
 2256,New Haven,US-NH,"Yale University, School of Music Library",Miscellaneous MS 239 ,,"Altus, Bassus"
 2257,Nuremberg (Nürnberg),D-Ngm,Bibliothek des Germanischen Nationalmuseums,8820 Q,,
-2258,Nuremberg (Nürnberg),D-Ngm,Bibliothek des Germanischen Nationalmuseums,83795 ,,"Tenor, Bassus"
+2258,Nuremberg (Nürnberg),D-Ngm,Bibliothek des Germanischen Nationalmuseums,83795,,"Tenor, Bassus"
 2259,Nuremberg (Nürnberg),D-Nla,Landeskirchliches Archiv,St. Egidien 33,,
 2260,Nuremberg (Nürnberg),D-Nla,Landeskirchliches Archiv,Fenitzer  IV. 224 2°,,
 2272,Oxford,GB-Ob,Bodleian Library,MS. Mus. e. 1,Sadler Partbooks,
@@ -1290,6 +1291,8 @@ id,MS name,siglum,archive,shelfmark,other names,part
 2387,Paris,F-Pn,Bibliothèque Nationale,"Coll. Roths, MS 2973",Cordiforme Chansonnier; Chansonnier de Jean de Montchenu,
 2388,Paris,F-Pm,Bibliothèque Mazarine,MS Réserve 30345 A,,
 2390,Perugia,I-PEc,Biblioteca Comunale Augusta,MS I.M. 1079 (1-3),,
+2391,Piacenza,I-PCd,"Archivio del Duomo, Fondo Musicale",s.s. ,,"2, 4, 5"
+2392,Piacenza,I-PCd,"Archivio del Duomo, Fondo Musicale",s.s. (3) ,,"Discantus/Altus/Tenor, Tenor/Bassus"
 2396,Plasencia,E-P,Archivo de Musica de la Catedral,4,,
 2398,Prague,CZ-Pa,Archiv Hlavniho Mesta Prahy,s.s.,Malostransky Gradual,
 2403,Regensburg,D-Rp,Bischöfliche Zentralbibliothek,A. R. 786-837 ,,"D, A, Q, S, 7, 8, i"
@@ -1438,10 +1441,10 @@ id,MS name,siglum,archive,shelfmark,other names,part
 2593,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,29,,
 2594,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,30,,
 2596,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,35,,
-2597,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,36 ,,"Discantus, Altus, Tenor, Bassus, Quintus"
+2597,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,36,,"Discantus, Altus, Tenor, Bassus, Quintus"
 2598,Turin (Torino),I-Tn,Biblioteca Nazionale Universitaria,MS Ris.mus IV.45 ,,"Bassus, Discantus, Quintus, Sextus, Tenor, Altus"
-2599,Ulm,D-Usch,Münster Bibliothek,236 ,,"a, b, c, d"
-2603,Ulm,D-Usch,Münster Bibliothek,237 ,,"a, b, c, d"
+2599,Ulm,D-Usch,Münster Bibliothek,236,,"a, b, c, d"
+2603,Ulm,D-Usch,Münster Bibliothek,237,,"a, b, c, d"
 2611,Uppsala,S-U,Universitetsbiblioteket,Vokalmusik i Handskrift 76a,,
 2612,Uppsala,S-U,Universitetsbiblioteket,Vokalmusik i Handskrift 76b,,
 2613,Uppsala,S-U,Universitetsbiblioteket,Vokalmusik i Handskrift 76c,,
@@ -1614,6 +1617,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 2854,Český Krumlov,CZ-K,Státní Archiv Třeboň - Pobočka Český Krumlov,Prelátské Knihovny III S 17.1/391,,
 2855,Český Krumlov,CZ-K,Státní Archiv Třeboň - Pobočka Český Krumlov,Prelátské Knihovny III S 17.2/391,,
 2856,Český Krumlov,CZ-K,Státní Archiv Třeboň - Pobočka Český Krumlov,Kaplanské Knihovny 179,MS Kaplanské Knihovny 179,
+2857,Civitanova Marche,I-CNM,Biblioteca Comunale Silvio Zavatti,s.s. ,,2
 2858,Cologne,D-KNu,Universitäts- und Stadtbibliothek,MS GB III 57 ,,part I
 2860,Dublin,IRL-Dtc,Trinity College Library,MS 412,St. Andrews Psalter or Wode Partbooks,
 2883,Edinburgh,GB-Eu,University Library,MS La III. 483 ,St. Andrews Psalter or Wode Partbooks,"a, b, c"
@@ -1694,6 +1698,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 3023,Munich,D-Mbs,Bayerische Staatsbibliothek,Clm. 29775-9,,
 3024,Munich,D-Mbs,Bayerische Staatsbibliothek,Clm. 29775-11,,
 3026,Oporto,P-Pm,Biblioteca Pública Municipale,40,,
+3032,Padua,I-Psa,Basilica di Sant' Antonio,s.s. ,,2
 3033,Cividale del Friuli,I-CFm,Museo Archeologico Nazionale,Cod. XXIV,,
 3034,Prague,CZ-Pnm,Narodni muzeum,MS IV H 64 ,,"Tenor, Bassus"
 3035,Prague,CZ-Ps,"Pamatnik Narodniho Pisemnictvi, Strahovska Knihova",MS D.A.II.3,,

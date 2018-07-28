@@ -393,7 +393,7 @@ GB-WA B. VI. 23
 H-Bu U. Fr. l. m. 297
 H-Efkö MS I.178
 I-CARcc 14
-I-CNM s.s. 
+I-CNM s.s. (1) 
 I-Fr Ms. 2356
 I-Fd MS 6
 "I-FOLc s.s. ""frammento musicale de Quattrocento"""
@@ -403,9 +403,9 @@ I-Mc Santa Barbara 12 [III. 42]
 I-Mt 55
 I-MOd MS Mus. III
 I-Nn VI E 40
-I-Psa s.s. 
+I-Psa s.s. (1) 
 I-PAac MS AC-04
-I-PCd s.s. 
+I-PCd s.s. (1) 
 I-REsp s.s. 
 I-Rpm VI/C6/23
 I-Rv S1 35
@@ -957,6 +957,7 @@ E-GRcr MS 12
 A-Gu MS 8
 A-Gu MS 11
 "D-Hs MS Hans. III, 4 "
+"D-Hs MS Hans. III, 4 (IV) "
 D-Heid MS Pal. Germ. 318
 D-HBa MS X/2
 D-HBa MS XL
@@ -1290,6 +1291,8 @@ F-Pn nouvelles acquisitions françaises 4599
 "F-Pn Coll. Roths, MS 2973"
 F-Pm MS Réserve 30345 A
 I-PEc MS I.M. 1079 (1-3)
+I-PCd s.s. 
+I-PCd s.s. (3) 
 E-P 4
 CZ-Pa s.s.
 D-Rp A. R. 786-837 
@@ -1614,6 +1617,7 @@ H-Bn MS Bártfa Mus.Pr.4
 CZ-K Prelátské Knihovny III S 17.1/391
 CZ-K Prelátské Knihovny III S 17.2/391
 CZ-K Kaplanské Knihovny 179
+I-CNM s.s. 
 D-KNu MS GB III 57 
 IRL-Dtc MS 412
 GB-Eu MS La III. 483 
@@ -1694,6 +1698,7 @@ D-Mbs Clm. 29775-5
 D-Mbs Clm. 29775-9
 D-Mbs Clm. 29775-11
 P-Pm 40
+I-Psa s.s. 
 I-CFm Cod. XXIV
 CZ-Pnm MS IV H 64 
 CZ-Ps MS D.A.II.3
