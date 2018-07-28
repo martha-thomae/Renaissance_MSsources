@@ -30,8 +30,8 @@ with open('./Input/MS_from_DIAMM_1400to1600.csv') as file:
         shelfmark = item['shelfmark']
         name_item = archive + " " + shelfmark
 
-        parenthesis = re.search(r"\((.*?)\)", shelfmark)
-        bracket = re.search(r"\[(.*?)\]", shelfmark)
+        parenthesis = re.search(r".*\((.*?)\)", shelfmark)
+        bracket = re.search(r".*\[(.*?)\]", shelfmark)
 
         # If the item does not have any parenthesis or bracket,
         # Add it to the list of unique_sources since (most probably) is not a partbook
@@ -44,13 +44,13 @@ with open('./Input/MS_from_DIAMM_1400to1600.csv') as file:
 
             # If there is a parenthesis
             if parenthesis is not None:
-                shelfmark_edit = re.search(r"(.*?)\(.*\)", shelfmark).group(1)
+                shelfmark_edit = re.search(r"(.*)\(.*\)", shelfmark).group(1)
                 name_item_edit = archive + " " + shelfmark_edit
                 embedded_content = parenthesis.group(1)
 
             # If there is a bracket
             elif bracket is not None:
-                shelfmark_edit = re.search(r"(.*?)\[.*\]", shelfmark).group(1)
+                shelfmark_edit = re.search(r"(.*)\[.*\]", shelfmark).group(1)
                 name_item_edit = archive + " " + shelfmark_edit
                 embedded_content = bracket.group(1)
 
@@ -63,12 +63,15 @@ with open('./Input/MS_from_DIAMM_1400to1600.csv') as file:
                 # is already included in the list of unique_sources
                 if name_item_edit in unique_sources:
                     # If it is, pass, don't duplicate the record
-                    pass
+                    index = unique_sources.index(name_item_edit)
+                    a = unique_sources_info[index]
+                    a['part'] = a['part'] + ", " + embedded_content
                 else:
                     # If it is not, add the record to the unique_sources without the partbook
                     # number (i.e.. add name_item_edit instead of the original name_item)
                     unique_sources.append(name_item_edit)
                     item['shelfmark'] = shelfmark_edit
+                    item['part'] = embedded_content
                     unique_sources_info.append(item)
             else:
                 # If it is not a partbook, add the name as it is (name_item)
@@ -84,7 +87,7 @@ with open('./Output/unique_polyphonic_ms_sources.csv', 'w') as file:
         writer.writerow([source])
 
 with open('./Output/unique_polyphonic_ms2_sources.csv', 'w') as file:
-    writer = csv.DictWriter(file, fieldnames=['id', 'MS name', 'siglum', 'archive', 'shelfmark', 'other names'])
+    writer = csv.DictWriter(file, fieldnames=['id', 'MS name', 'siglum', 'archive', 'shelfmark', 'other names', 'part'])
     writer.writeheader()
     for source in unique_sources_info:
         writer.writerow(source)
