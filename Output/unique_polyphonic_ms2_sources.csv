@@ -17,7 +17,6 @@ id,MS name,siglum,archive,shelfmark,other names,part
 64,Barcelona,E-Boc,Documentation Center of the Orfeo Català  (CEDOC) [formerly: Biblioteca de l'Orfeó Català],MS 2,,
 82,Dijon,F-Dm,Bibliothèque Municipale,MS 2837,,
 83,Lille,F-Ldn,Archives Départementales du Nord,4 G 1081,,
-90,Paris,F-Pn,Bibliothèque Nationale,fonds français 1585,Machaut B,
 96,Paris,F-Pn,Bibliothèque Nationale,fonds latin 10581,,
 97,Paris,F-Pn,Bibliothèque Nationale,nouvelles acquisitions françaises 10660,,
 100,Paris,F-Pn,Bibliothèque Nationale,nouvelles acquisitions françaises 4917,,
@@ -385,7 +384,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 984,Paris,F-Peb,"École Nationale Supérieure des Beaux-Arts, Bibliothèque",Jean Masson 56,,
 987,Cambridge,GB-Cp,"Peterhouse, Perne Library",MS 40 ,Peterhouse Partbooks: Henrician Set,Triplex
 989,Chelmsford,GB-CF,Essex Record Office,MS D/DP Z6/1,,
-990,Edinburgh,GB-Eu,University Library,64,Dunkeld Antiphonary,"Discantus, Altus, Tenor, Bassus, Quintus"
+990,Edinburgh,GB-Eu,University Library,64 ,Dunkeld Antiphonary,"Discantus, Altus, Tenor, Bassus, Quintus"
 992,Lincoln,GB-LIcro,Lincolnshire Archives and Record Office,"s.s. (Register) - moved to Lincoln, Lincolshire Archives and Record Office, Saxilby PAR 23/1",Saxilby Fragment,
 993,Shrewsbury,GB-SHR,Shropshire Record Office,LB/15/1/225,,
 994,Sutton Coldfield,GB-SC,"Oscott College, Old Library",Case B No. 4,,
@@ -417,7 +416,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 1030,Trent (Trento),I-TRa,Archivio di Stato Trento,"Sezione tedesca, Nr. 105",,
 1031,Trent (Trento),I-TRc,Biblioteco Comunale,283,,
 1033,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,1,,
-1034,Verona,I-VEaf,Biblioteca Dell'Accademia Filarmonica,218,,"Discantus 1, Discantus 2, Altus 1, Altus 2, Tenor 1, Tenor 2, Bassus 1, Bassus 2"
+1034,Verona,I-VEaf,Biblioteca Dell'Accademia Filarmonica,218 ,,"Discantus 1, Discantus 2, Altus 1, Altus 2, Tenor 1, Tenor 2, Bassus 1, Bassus 2"
 1038,'s-Hertogenbosch,NL-SH,Archief van de Illustre Lieve Vrouwe Broederschap,MS 72A,,
 1041,Leiden,NL-L,Gemeentearchief; Archieven van de Kerken,MS 1438,,
 1042,Leiden,NL-Lml,Stedelijk Museum in de Lakenhal,MS 1440,,
@@ -431,7 +430,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 1052,Lisbon,P-Ln,Biblioteca Nacional,Colecção Dr. Ivo Cruz. MS 60,,
 1053,Oporto,P-Pm,Biblioteca Pública Municipale,714,,
 1054,Cieszyn,PL-C,Oddzial Zabytkowy Biblioteki Slaskiej W Cieszynie,Rps. DD I 28,,
-1055,Gdansk,PL-GD,Bibliogeki Polskiej Akademii Nauk (Library of the Polish Academy of Sciences),4003,,"Discantus, Altus, Tenor, Bassus"
+1055,Gdansk,PL-GD,Bibliogeki Polskiej Akademii Nauk (Library of the Polish Academy of Sciences),4003 ,,"Discantus, Altus, Tenor, Bassus"
 1056,Kielce,PL-KIs,Biblioteka Seminarium Duchownego,s.s.,,
 1057,Klatovy,CZ-KLm,Vlastivědné muzeum Dr. Hostaše v Klatovech [formerly: Okresní Muzeum],C3/403,,
 1058,Kórnik,PL-KÓ,Biblioteki Polskiej Akademii Nauk,801,,
@@ -523,7 +522,7 @@ id,MS name,siglum,archive,shelfmark,other names,part
 1184,Tournai,B-Tv,Bibliothèque de la Ville,94,,
 1185,Trebechovice Pod Orebem,CZ-TRCHm,Muzeum,134,,
 1186,Trebon,CZ-TRE,Státní Oblastní Archiv,A 4,,
-1187,Ulm,D-Usch,Münster Bibliothek,235,,"a, b, c, d"
+1187,Ulm,D-Usch,Münster Bibliothek,235 ,,"a, b, c, d"
 1188,Usti nad Orlici,CZ-UO,Okresni Archiv,A 3,,
 1190,Valencia,E-VAu,Biblioteca Universitaria,835,,
 1191,Valladolid,E-V,"Catedral Metropolitana, Archivo de Música",5,,
@@ -677,7 +676,6 @@ id,MS name,siglum,archive,shelfmark,other names,part
 1404,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.117,,
 1405,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.121,,
 1406,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.125bis,,
-1407,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.164,,
 1408,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.176,,
 1409,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.178,,
 1410,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Banco Rari 229,,
@@ -938,7 +936,6 @@ id,MS name,siglum,archive,shelfmark,other names,part
 1774,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.99,,
 1776,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.111 ,,"Discantus, Altus, Tenor"
 1777,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.112 ,,"Discantus, Altus, Tenor"
-1778,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.122,,
 1779,Leipzig,D-LEu,Universitätsbibliothek,MS Thomaskirche 50,,
 1780,Florence (Firenze),I-Fc,Conservatorio di Musica Luigi Cherubini,MS Basevi 2495 ,,"Discantus, Tenor, Bassus"
 1781,Florence (Firenze),I-Fd,"Duomo, Archivio Musicale dell'Opera di Santa Maria del Fiore",MS 4,,
@@ -1012,11 +1009,9 @@ id,MS name,siglum,archive,shelfmark,other names,part
 1870,London,GB-Lbl,British Library,Add. MS 4911,Scottish Anonymous,
 1871,London,GB-Lbl,British Library,Add. MS 15166,,
 1876,London,GB-Lbl,British Library,Add. MS 19583,,
-1885,London,GB-Lbl,British Library,Add. MS 30480,Hammond Partbooks,
 1888,London,GB-Lbl,British Library,Add. MS 31390,,
 1889,London,GB-Lbl,British Library,Add. MS 31438,,
 1890,London,GB-Lbl,British Library,Add. MS 32377,,
-1891,London,GB-Lbl,British Library,Add. MS 33933,Wode partbooks,
 1894,London,GB-Lbl,British Library,Add. MS 34191,,
 1895,London,GB-Lbl,British Library,Add. MS 34200,,
 1896,London,GB-Lbl,British Library,Add. MS 34700,,
@@ -1242,31 +1237,13 @@ id,MS name,siglum,archive,shelfmark,other names,part
 2255,New Haven,US-NH,"Yale University, School of Music Library",Miscellaneous MS 179,,
 2256,New Haven,US-NH,"Yale University, School of Music Library",Miscellaneous MS 239 ,,"Altus, Bassus"
 2257,Nuremberg (Nürnberg),D-Ngm,Bibliothek des Germanischen Nationalmuseums,8820 Q,,
-2258,Nuremberg (Nürnberg),D-Ngm,Bibliothek des Germanischen Nationalmuseums,83795,,"Tenor, Bassus"
+2258,Nuremberg (Nürnberg),D-Ngm,Bibliothek des Germanischen Nationalmuseums,83795 ,,"Tenor, Bassus"
 2259,Nuremberg (Nürnberg),D-Nla,Landeskirchliches Archiv,St. Egidien 33,,
 2260,Nuremberg (Nürnberg),D-Nla,Landeskirchliches Archiv,Fenitzer  IV. 224 2°,,
-2272,Oxford,GB-Ob,Bodleian Library,MS. Mus. e. 1,Sadler Partbooks,
-2273,Oxford,GB-Ob,Bodleian Library,MS. Mus. e. 2,Sadler Partbooks,
-2274,Oxford,GB-Ob,Bodleian Library,MS. Mus. e. 3,Sadler Partbooks,
-2275,Oxford,GB-Ob,Bodleian Library,MS. Mus. e. 4,Sadler Partbooks,
-2276,Oxford,GB-Ob,Bodleian Library,MS. Mus. e. 5,Sadler Partbooks,
-2291,Oxford,GB-Ob,Bodleian Library,MS. Mus. Sch. e. 420,Wanley Partbooks,
-2292,Oxford,GB-Ob,Bodleian Library,MS. Mus. Sch. e. 421,Wanley Partbooks,
-2293,Oxford,GB-Ob,Bodleian Library,MS. Mus. Sch. e. 422,Wanley Partbooks,
 2294,Oxford,GB-Ob,Bodleian Library,MS. Mus. Sch. e. 423,,
 2334,Oxford,GB-Ob,Bodleian Library,MS. Tenbury 1464,,
 2338,Oxford,GB-Ob,Bodleian Library,MS. Tenbury 1486,Braikenridge Manuscript,
 2341,Oxford,GB-Och,Christ Church,Mus. 45,,
-2348,Oxford,GB-Och,Christ Church,Mus. 979,Baldwin Partbooks,
-2349,Oxford,GB-Och,Christ Church,Mus. 980,Baldwin Partbooks,
-2350,Oxford,GB-Och,Christ Church,Mus. 981,Baldwin Partbooks,
-2351,Oxford,GB-Och,Christ Church,Mus. 982,Baldwin Partbooks,
-2352,Oxford,GB-Och,Christ Church,Mus. 983,Baldwin Partbooks,
-2353,Oxford,GB-Och,Christ Church,Mus. 984,Dow Partbooks,
-2354,Oxford,GB-Och,Christ Church,Mus. 985,Dow Partbooks,
-2355,Oxford,GB-Och,Christ Church,Mus. 986,Dow Partbooks,
-2356,Oxford,GB-Och,Christ Church,Mus. 987,Dow Partbooks,
-2357,Oxford,GB-Och,Christ Church,Mus. 988,Dow Partbooks,
 2366,Oxford,GB-Onc,New College,MS 9711,,
 2367,Munich,D-Mbs,Bayerische Staatsbibliothek,Mus. MS 3936,,
 2368,Munich,D-Mbs,Bayerische Staatsbibliothek,Mus. MS 4482,,
@@ -1441,10 +1418,10 @@ id,MS name,siglum,archive,shelfmark,other names,part
 2593,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,29,,
 2594,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,30,,
 2596,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,35,,
-2597,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,36,,"Discantus, Altus, Tenor, Bassus, Quintus"
+2597,Treviso,I-TVcap,Biblioteca Capitolare del Duomo di Treviso,36 ,,"Discantus, Altus, Tenor, Bassus, Quintus"
 2598,Turin (Torino),I-Tn,Biblioteca Nazionale Universitaria,MS Ris.mus IV.45 ,,"Bassus, Discantus, Quintus, Sextus, Tenor, Altus"
-2599,Ulm,D-Usch,Münster Bibliothek,236,,"a, b, c, d"
-2603,Ulm,D-Usch,Münster Bibliothek,237,,"a, b, c, d"
+2599,Ulm,D-Usch,Münster Bibliothek,236 ,,"a, b, c, d"
+2603,Ulm,D-Usch,Münster Bibliothek,237 ,,"a, b, c, d"
 2611,Uppsala,S-U,Universitetsbiblioteket,Vokalmusik i Handskrift 76a,,
 2612,Uppsala,S-U,Universitetsbiblioteket,Vokalmusik i Handskrift 76b,,
 2613,Uppsala,S-U,Universitetsbiblioteket,Vokalmusik i Handskrift 76c,,
@@ -1619,20 +1596,10 @@ id,MS name,siglum,archive,shelfmark,other names,part
 2856,Český Krumlov,CZ-K,Státní Archiv Třeboň - Pobočka Český Krumlov,Kaplanské Knihovny 179,MS Kaplanské Knihovny 179,
 2857,Civitanova Marche,I-CNM,Biblioteca Comunale Silvio Zavatti,s.s. ,,2
 2858,Cologne,D-KNu,Universitäts- und Stadtbibliothek,MS GB III 57 ,,part I
-2860,Dublin,IRL-Dtc,Trinity College Library,MS 412,St. Andrews Psalter or Wode Partbooks,
-2883,Edinburgh,GB-Eu,University Library,MS La III. 483 ,St. Andrews Psalter or Wode Partbooks,"a, b, c"
-2886,Edinburgh,GB-Eu,University Library,MS Dk.5.14,St. Andrews Psalter or Wode Partbooks,
-2887,Edinburgh,GB-Eu,University Library,MS Dk.5.15,St. Andrews Psalter or Wode Partbooks,
 2888,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.100,,
 2889,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.101,,
 2890,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.102,,
 2891,Oxford,GB-Occ,Corpus Christi College,MS 566,,
-2892,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.123,,
-2893,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.124,,
-2894,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.125,,
-2895,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.165,,
-2896,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.166,,
-2897,Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,MS Magl. XIX.167,,
 2899,Oxford,GB-Occ,Corpus Christi College,MS 118,,
 2900,Florence (Firenze),I-Fd,"Duomo, Archivio Musicale dell'Opera di Santa Maria del Fiore",MS 49,,
 2902,Florence (Firenze),I-Fsl,Archivio di San Lorenzo,MS N,,
@@ -1680,10 +1647,6 @@ id,MS name,siglum,archive,shelfmark,other names,part
 2955,Kassel,D-Kl,Universitätsbibliothek Kassel Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel,4° Ms. Mus. 143/2,,
 2956,Herdringen,G-HRD,"Schloss Fürstenberg, Bibliothek",9821,,
 2957,Linz,A-Lls (A-Llb),Oberösterreichische Landesbibliothek,529,,
-2982,London,GB-Lbl,British Library,Add. MS 30481,Hammond Partbooks,
-2983,London,GB-Lbl,British Library,Add. MS 30482,Hammond Partbooks,
-2984,London,GB-Lbl,British Library,Add. MS 30483,Hammond Partbooks,
-2985,London,GB-Lbl,British Library,Add. MS 30484,Hammond Partbooks,
 3009,London,GB-Lbl,British Library,[pr. bk.] Music Library K. 4. f. 5 ,,"Discantus, Altus, Tenor, Bassus"
 3010,London,GB-Lbl,British Library,[pr. bk.] Music Library K. 4. g. 3 ,,"Discantus, Altus, Tenor, Bassus"
 3013,London,GB-Lbl,British Library,Royal Appendix 59,,
@@ -1875,7 +1838,6 @@ id,MS name,siglum,archive,shelfmark,other names,part
 4030,Grand-St-Bernard,CH-GSB,Bibliothèque de l'Hospice,Fragment 8,,
 4035,Munich,D-Mbs,Bayerische Staatsbibliothek,Clm. 14523,,
 4036,Oxford,GB-Occ,Corpus Christi College,Printed book Δ [delta] 15. 3,,
-4037,Washington,US-Wgu,"Georgetown University, Special Collections Joseph Mark Lauinger Library",MS 10,St. Andrews Psalter or Wode Partbooks,
 4039,Davis,US-DAVowens,private library of Prof J A Owens,Thomas Morley: Plaine and Easie Introduction to Practicall Musicke,,
 4042,Vienna,A-Wn,Österreichische Nationalbibliothek,Cod. 3917 Han,,
 4044,Vienna,A-Wn,Österreichische Nationalbibliothek,Fragm. 661 Han,,
@@ -1948,3 +1910,12 @@ id,MS name,siglum,archive,shelfmark,other names,part
 4680,Frankfurt am Main,D-F,Stadt- und Universitätsbibliothek,Fragm. lat. VII 20,,
 4685,Troyes,F-T,Bibliothèque Municipale,Ms 980,,
 4686,Dublin,IRL-Dm,Marsh's Library,S.T.C. 16255,Psalterium cum Antiphonis...unacum Hymnis,
+"1885, 2982, 2983, 2984, 2985",London,GB-Lbl,British Library,"Add. MS 30480, 30481, 30482, 30483, 30484",Hammond Partbooks,
+"1407, 2895, 2896, 2897",Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,"MS Magl. XIX.164, 165, 166, 167",,
+"1778, 2892, 2893, 2894",Florence (Firenze),I-Fn,Biblioteca Nazionale Centrale,"MS Magl. XIX.122, 123, 124, 125",,
+"2272, 2273, 2274, 2275, 2276",Oxford,GB-Ob,Bodleian Library,"MS. Mus. e. 1, 2, 3, 4, 5",Sadler Partbooks,
+"2291, 2292, 2293",Oxford,GB-Ob,Bodleian Library,"MS. Mus. Sch. e. 420, 421, 422",Wanley Partbooks,
+"2348, 2349, 2350, 2351, 2352",Oxford,GB-Och,Christ Church,"Mus. 979, 980, 981, 982, 983",Baldwin Partbooks,
+"2353, 2354, 2355, 2356, 2357",Oxford,GB-Och,Christ Church,"Mus. 984, 985, 986, 987, 988",Dow Partbooks,
+"2886, 2887, 4037",Edinburgh / Washington,GB-Eu / US-Wgu,University Library / Georgetown University Special Collections Joseph Mark Lauinger Library,"MS Dk.5.14, 5.15 / MS 10",St. Andrews Psalter or Wode Partbooks,
+"2883, 2884, 2885, 1891, 2860",Edinburgh / London / Dublin,GB-Eu / Gb-Lbl / IRL-Dtc,University Library / British Library / Trinity College Library,"MS La III. 483 (a), (b), (c) / Add. MS 33933 / MS 412",St. Andrews Psalter or Wode Partbooks,
